@@ -1,5 +1,5 @@
 
-#**Sea Ice Extent Modeling Project**
+**#Sea Ice Extent Modeling Project**
 
 This project involves modeling sea ice extent over time using data from: [https://nsidc.org/home] (The National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder)
 The whole project was inspired by this tutorial: https://ourcodingclub.github.io/tutorials/stan-intro/
