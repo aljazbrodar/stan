@@ -5,9 +5,9 @@ This project involves modeling sea ice extent over time using data from: [https:
 The whole project was inspired by this tutorial: [https://ourcodingclub.github.io/tutorials/stan-intro]
 
 ## Required Libraries
-install.packages("rstan")
-install.packages("gdata")
-install.packages("bayesplot")
+install.packages("rstan")__
+install.packages("gdata")__
+install.packages("bayesplot")__
 
 ## Project Structure
 ### Data:
