@@ -1,4 +1,3 @@
-# Assuming the file is named 'seaice_data.csv' and is in your working directory
 seaice_data <- read.csv("seaice.csv", header = TRUE)
 
 # Plotting extent against year
@@ -6,7 +5,6 @@ plot(seaice_data$year, seaice_data$extent,
      xlab = "Year", ylab = "Extent (Million sq. km)",
      main = "Sea Ice Extent Over Time", ylim = c(0, 15))  # Adjust ylim as needed
 
-# You can add gridlines for better visualization
 grid()
 
 lm1 <- lm(extent ~ year, data = seaice_data)
