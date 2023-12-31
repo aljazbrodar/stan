@@ -25,7 +25,7 @@ model.stan, model2.stan, model2_GQ.stan: Stan code containing the Bayesian model
 
 1. Scatter Plot: Sea Ice Extent Over Time (Northern Hemisphere)
   
-[![first_img](https://github.com/aljazbrodar/stan/assets/67840350/84bb7e13-15cc-4ec4-9954-0720894582b5)]
+![first_img](https://github.com/aljazbrodar/stan/assets/67840350/84bb7e13-15cc-4ec4-9954-0720894582b5)]
 
 2. Stan linear model fits  
 
